@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beautiful CSS check-boxes" 
-categories: cyber security
+categories: Design
 date : 2022-11-01 22:14:50
 ---
 
