@@ -1,9 +1,9 @@
 ---
+layout: post
 title: "Baby Yoda Pumpkin" 
 description : "Halloween is around the corner." 
-tags : [ "family", "holidays"]
-date : 2021-10-10T11:13:50
-author : "Theodore" 
+categories: family
+date : 2021-10-10 11:13:50
 ---
 
 ’tis a bit early but still…
