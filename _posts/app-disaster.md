@@ -2,6 +2,7 @@
 layout: post
 title: "This app disaster" 
 date : 2021-09-17 11:13:50
+categories: rant
 ---
 
 Where to begin… Let’s start with some context;
