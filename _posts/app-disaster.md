@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "This app disaster" 
 description : "Talk aboput making it hard for customers..." 
 tags : [ "rant", "technology"]
