@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "CIS AWS Foundations Benchmark" 
-tags : [ "aws", "compliance", "security"]
+categories: AWS
 date : 2022-03-25 07:13:50
-author : "Theodore" 
 ---
 
 First and foremost, Happy Greek National Day! 
