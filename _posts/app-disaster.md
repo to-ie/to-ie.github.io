@@ -1,10 +1,7 @@
 ---
 layout: post
 title: "This app disaster" 
-description : "Talk aboput making it hard for customers..." 
-tags : [ "rant", "technology"]
-date : 2021-09-17T11:13:50
-author : "Theodore" 
+date : 2021-09-17 11:13:50
 ---
 
 Where to begin… Let’s start with some context;
