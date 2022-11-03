@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Baby Yoda Pumpkin" 
-description : "Halloween is around the corner." 
 categories: family
 date : 2021-10-10 11:13:50
 ---
