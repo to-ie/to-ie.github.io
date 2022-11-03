@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "CIS AWS Foundations Benchmark" 
-description : "Talk aboput making it hard for customers..." 
 tags : [ "aws", "compliance", "security"]
-date : 2022-03-25T07:13:50
+date : 2022-03-25 07:13:50
 author : "Theodore" 
 ---
 
