@@ -2,6 +2,7 @@
 A microblog. 
 
 ## Credit
-[Jekyll](https://jekyllrb.com/)
+[Jekyll](https://jekyllrb.com/) | Theme:[textlog](https://heiswayi.github.io/textlog/)
 
-Theme:[textlog](https://heiswayi.github.io/textlog/)
+## Contact
+to-ie@duck.com
