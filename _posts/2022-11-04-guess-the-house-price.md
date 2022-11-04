@@ -2,7 +2,7 @@
 layout: post
 title: "Guess the house price" 
 categories: privacy
-date : 2021-11-04 08:14:50
+date : 2022-11-04 08:14:50
 ---
 
 Ireland (and the whole world really) is in the midst of a economic crisis, with prices going through the roof! 
