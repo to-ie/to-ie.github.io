@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guess the house price" 
-categories: privacy
+categories: Fun
 date : 2022-11-04 08:14:50
 ---
 
