@@ -125,4 +125,8 @@ DAY 110     REST
 DAY 111     42.16 km            
 DAY 112     REST            
    
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> a7de887 (marathon blog post)
