@@ -5,7 +5,7 @@ categories: health
 date : 2022-11-03 22:58:50
 ---
 
-Training plan for a Marathon, inspired by the Dublin Marathon 2022.
+Training plan for a Marathon. I was inspired by the Dublin Marathon 2022.
 
 Progress will be updated as I go 👇️
 
