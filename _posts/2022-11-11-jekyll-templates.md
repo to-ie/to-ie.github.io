@@ -14,4 +14,4 @@ There are a few cool templates out there that I will bookmark here, for future i
 
 ## Travel Map
 [Travel map](https://jekyll-themes.com/travel-map/) is a minimal, map, one-page Jekyll theme.
-![Travel](https://jekyller.github.io/TravelMap/)
+![Travel](https://jekyll-themes.com/images/travel-map.png)
