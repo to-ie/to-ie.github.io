@@ -10,6 +10,8 @@ There are a few cool templates out there that I will bookmark here, for future i
 
 ## Some
 [Some](https://jekyll-themes.com/some/) is a minimal, resume, CV Jekyll theme. 
+![Some](https://jekyll-themes.com/images/jekyll-cv.png)
 
 ## Travel Map
 [Travel map](https://jekyll-themes.com/travel-map/) is a minimal, map, one-page Jekyll theme.
+![Travel](https://jekyller.github.io/TravelMap/)
