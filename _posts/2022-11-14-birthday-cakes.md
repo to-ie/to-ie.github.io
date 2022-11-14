@@ -26,6 +26,9 @@ Toad.
 ## Fourth birthday
 Jackson Storm (from Cars). 
 
+![birthday cake](/img/blog-posts/yr-4.jpg)
+![birthday cake](/img/blog-posts/yr-4-1.jpg)
+
 ## Third birthday
 Cat Boy.
 
