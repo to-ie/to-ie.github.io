@@ -32,6 +32,8 @@ Cat Boy.
 ![birthday cake](/img/blog-posts/yr-3-.jpg)
 
 ## Second birthday
+Lion. 
+
 
 ## First birthday
 Pirate ship. 
