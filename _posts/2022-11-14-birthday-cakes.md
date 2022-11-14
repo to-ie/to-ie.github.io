@@ -14,7 +14,7 @@ Bullet bill.
 ![birthday cake](/img/blog-posts/yr-7.jpg)
 
 ## Sixth birthday
-Tipi Adventures logo (check out [Tipi Adventures](https://www.tipiadventures.ie)
+Tipi Adventures logo (check out [Tipi Adventures](https://www.tipiadventures.ie))
 
 ![birthday cake](/img/blog-posts/yr-6.jpg)
 
