@@ -20,7 +20,7 @@ I have been making my child's birthday cakes since he was born.
 ## Fourth birthday
 
 ## Third birthday
-![birthday cake](/img/blog-posts/yr-3.jpg)
+![birthday cake](/img/blog-posts/yr-3-.jpg)
 
 ## Second birthday
 
