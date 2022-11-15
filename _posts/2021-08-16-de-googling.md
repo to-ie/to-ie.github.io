@@ -6,3 +6,15 @@ date : 2021-08-16 11:14:50
 ---
 
 Check out this very complete [reddit post](https://www.reddit.com/r/degoogle/comments/pjligx/open_source_alternatives_for_degoogling/).
+
+The ones I currently use: 
+- Protonmail
+- Libre Wolf (a branch of Firefox)
+-  Signal 
+-  Simple Calendar
+-  F-Droid
+-  Feedr
+-  VLC Player
+-  Aegis
+-  ProtonVPN
+-  Infinity
