@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[PI] - It is raining in Dublin" 
+title: "[Project Idea] - It is raining in Dublin" 
 categories: Project
 date : 2022-11-15 11:18:50
 ---
@@ -18,6 +18,15 @@ A website that provides users with ideas of what to do in Dublin when the weathe
 - Forum: for user's meetup organisation, feedback, community building. 
 - Mailing list: to inform users that the weather will be bad over the week end
 - Search by city 
+
+## Notes
+- Make the ideas publicly available (title)
+- User needs to be logged in to:
+  - suggest new ideas
+  - save ideas
+  - vote on ideas
+  - see ideas description
+- Keep the UI super simple
 
 ## Mockup
 ![mockup](/img/blog-posts/raining.jpg)
