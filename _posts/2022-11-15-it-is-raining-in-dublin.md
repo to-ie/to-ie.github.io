@@ -29,5 +29,5 @@ A website that provides users with ideas of what to do in Dublin when the weathe
 - Keep the UI super simple
 
 ## Mockup
-![mockup](/img/blog-posts/raining.jpg)
+![mockup](/img/blog-posts/rain-concept.png)
 
