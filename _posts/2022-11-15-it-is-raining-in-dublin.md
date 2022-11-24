@@ -7,7 +7,7 @@ date : 2022-11-15 11:18:50
 ## Concept
 A website that provides users with ideas of what to do in Dublin when the weather is not at its best. 
 
-2022-11-24: I started the project : https://github.com/to-ie/oh-no-it-s-raining
+2022-11-24: I started the project : [https://github.com/to-ie/oh-no-it-s-raining](https://github.com/to-ie/oh-no-it-s-raining)
 
 ## Features
 - Weather forecast: simple 7 day forecast
