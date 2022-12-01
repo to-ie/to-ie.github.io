@@ -9,10 +9,14 @@ The project is simple: a web-app that users can use to get inspiration on what t
 
 The aim of the project is for me to test my new-learnt Flask skills. 
 
-## Github
-Project is open source and available here: `https://github.com/to-ie/oh-no-it-s-raining`
+## Links
+Project code is open source and available here: 
 
-2022-11-24: I started the project : [https://github.com/to-ie/oh-no-it-s-raining](https://github.com/to-ie/oh-no-it-s-raining)
+`https://github.com/to-ie/oh-no-it-s-raining`
+
+Project is live here:
+
+`tbc`
 
 ## Features
 - Authentication
