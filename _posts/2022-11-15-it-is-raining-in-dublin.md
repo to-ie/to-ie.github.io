@@ -9,19 +9,16 @@ The project is simple: a web-app that users can use to get inspiration on what t
 
 The aim of the project is for me to test my new-learnt Flask skills. 
 
-## Links
-Project code is open source and available here: 
+## Preview
+![Preview](https://github.com/to-ie/oh-no-it-s-raining/raw/main/app/static/index.jpg)
 
-`https://github.com/to-ie/oh-no-it-s-raining`
-
-Project is live here:
-
-`tbc`
+## Preview
+![Preview](https://github.com/to-ie/oh-no-it-s-raining/raw/main/app/static/index.jpg)
 
 ## Features
 - Authentication
-    - User registration 
-    - User password reset 
+    - User registration
+    - User password reset
     - User login
     - User logout
 - Public
@@ -40,6 +37,12 @@ Project is live here:
     - User management: list users, edit users, delete users, make user admin
     - activity management: list, edit, delete, moderate / publish all activities
 
-## Preview
-![Preview](https://github.com/to-ie/oh-no-it-s-raining/raw/main/app/static/index.jpg)
+## Links
+Project code is open source and available here: 
+
+`https://github.com/to-ie/oh-no-it-s-raining`
+
+Project is live here:
+
+`tbc`
 
