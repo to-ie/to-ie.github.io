@@ -12,30 +12,30 @@ The aim of the project is for me to test my new-learnt Flask skills.
 ## Preview
 ![Preview](https://github.com/to-ie/oh-no-it-s-raining/raw/main/app/static/index.jpg)
 
-## Preview
-![Preview](https://github.com/to-ie/oh-no-it-s-raining/raw/main/app/static/index.jpg)
-
 ## Features
-- Authentication
-    - User registration
-    - User password reset
-    - User login
-    - User logout
-- Public
-    - 7-day weather forecast
-    - Display of the 5-latest activities posted
-- Members
-    - Lists of activities
-    - Filter through activities, by location
-    - Users can suggest activities
-    - User can edit and delete activities they have posted
-    - Users can edit their profile
-    - users can save and remove activities for later
-    - Users can see their 'save for later list'
-    - Users can see the activities they have posted
-- Administration
-    - User management: list users, edit users, delete users, make user admin
-    - activity management: list, edit, delete, moderate / publish all activities
+Authentication
+- User registration
+- User password reset
+- User login
+- User logout
+
+Public
+- 7-day weather forecast
+- Display of the 5-latest activities posted
+
+Members
+- Lists of activities
+- Filter through activities, by location
+- Users can suggest activities
+- User can edit and delete activities they have posted
+- Users can edit their profile
+- users can save and remove activities for later
+- Users can see their 'save for later list'
+- Users can see the activities they have posted
+
+Administration
+- User management: list users, edit users, delete users, make user admin
+- activity management: list, edit, delete, moderate / publish all activities
 
 ## Links
 Project code is open source and available here: 
