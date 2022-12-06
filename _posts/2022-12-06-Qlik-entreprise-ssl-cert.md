@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Applying an SSL Certificate to Qlik Sense Entreprise " 
+title: "Applying an SSL Certificate to Qlik Entreprise " 
 categories: tech
 date : 2022-12-06 10:13:50
 ---
