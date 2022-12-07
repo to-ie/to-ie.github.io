@@ -38,13 +38,3 @@ Members
 Administration
 - User management: list users, edit users, delete users, make user admin
 - activity management: list, edit, delete, moderate / publish all activities
-
-## Links
-Project code is open source and available here: 
-
-`https://github.com/to-ie/oh-no-it-s-raining`
-
-Project is live here:
-
-`tbc`
-
