@@ -9,6 +9,8 @@ The project is simple: a web-app that users can use to get inspiration on what t
 
 The aim of the project is for me to test my new-learnt Flask skills. 
 
+Project is live here: [https://toie.pythonanywhere.com/](https://toie.pythonanywhere.com/)
+
 ## Preview
 ![Preview](https://github.com/to-ie/oh-no-it-s-raining/raw/main/app/static/index.jpg)
 
