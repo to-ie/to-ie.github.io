@@ -2,7 +2,7 @@
 layout: post
 title: "GitSwitch" 
 categories: systems
-date : 2023-06-15 11:34:50
+date : 2023-06-15 09:34:50
 ---
 
 I have 2 GitHub accounts, one for work and one for pleasure. But I only use the one laptop. So, switching from one account to another, in the terminal has always been a pain in the back. 
