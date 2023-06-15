@@ -9,7 +9,7 @@ I have 2 GitHub accounts, one for work and one for pleasure. But I only use the 
 
 Until I wrote this:  
 
-```
+``` switch.sh
 #!/bin/bash
 # This script switches github profiles
 # Made by toie on 20230615
