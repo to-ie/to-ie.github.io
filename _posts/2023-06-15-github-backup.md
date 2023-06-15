@@ -2,7 +2,7 @@
 layout: post
 title: "GitHub backup" 
 categories: systems
-date : 2023-06-15 08:14:50
+date : 2023-06-15 08:14:50 
 ---
 
 As a sysadmin, I regularly backup and test infrastructure, for when the day we need them come. 
