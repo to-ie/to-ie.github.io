@@ -28,6 +28,7 @@ or, with the blanks filled in:
 github-backup to-ie --token <personal-access-token> --private --repositories --output-directory ~/Documents/Github-backup/
 ```
 
+## Access token
 For the above command, you will need to [generate a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#about-personal-access-tokens) on GitHub. 
 
 As `github-backup` is a third-party tool, it might be a good idea to generate a new token each time you do a backup (to avoid it leaking to malicious actors).
