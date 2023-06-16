@@ -57,3 +57,6 @@ rm -r ~/Desktop/gitswitch
 ## Switching profile
 And finally, to switch profiles, simply open a terminal and type `gitswitch`. Follow the prompts and you're good to go!
 
+
+## Gitswitch on GitHub
+Check out the repo at [https://github.com/to-ie/gitswitch/](https://github.com/to-ie/gitswitch/)
