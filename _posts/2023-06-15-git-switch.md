@@ -5,78 +5,53 @@ categories: systems
 date : 2023-06-15 09:34:50
 ---
 
-I have 2 GitHub accounts, one for work and one for pleasure. But I only use the one laptop. So, switching from one account to another, in the terminal has always been a pain in the back. 
+I have 2 GitHub accounts, one for work and one for pleasure. But I only use the one laptop. So, switching from one account to another, in the terminal has always been a pain in the back. So I thought I'd work on finding a technical solution to this technical problem. And I built... [Gitswitch](https://github.com/to-ie/gitswitch)!
 
-Until I wrote this:  
+## What is it? 
+This script helps with users who have multiple GitHub profiles and require to switch between them on a regular basis. It currently works on Ubuntu (and other Linux distros) and supports 2 GitHub accounts only. 
 
-``` switch.sh
-#!/bin/bash
-# This script switches github profiles
-# Made by toie on 20230615
-# Works on Ubuntu
+## Some assumptions
+I assume that you already have GitHub CLI installed (if not, check [this page](https://cli.github.com/manual/installation) out) and that you are using [Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) to connect to your GitHub account.
 
-GREEN='\033[0;32m' 
-NC='\033[0m' # No Color
 
-# Require user prompt to begin script
-echo "You are about to switch git profile."
-echo "You are currently logged in as"
-cat ~/.gitcurrent
-echo
+## Some prep
+Before installing Gitswitch, you might want to have the following info ready, for each account:
 
-read -p "Press Enter to switch profiles" </dev/tty
+- A nickname for the account (ie: 'work')
+- The GitHub username
+- The email address linked to the account
+- The personal access key for the GitHub account (generate one here)
 
-if grep -q <profile-1> ~/.gitcurrent; then
-  cp ~/Documents/git-switcher/gitcredential/<profile-2>/.gitconfig ~/.gitconfig 
-  cp ~/Documents/git-switcher/gitcredential/<profile-2>/.git-credentials ~/.git-credentials 
-  echo <profile-2> > ~/.gitcurrent
-  printf "${GREEN}You are now logged in as <profile-2>${NC}\n"
-  echo
-  exit
-fi
-
-if grep -q <profile-2> ~/.gitcurrent; then
-  cp ~/Documents/git-switcher/gitcredential/<profile-1>/.gitconfig ~/.gitconfig 
-  cp ~/Documents/git-switcher/gitcredential/<profile-1>/.git-credentials ~/.git-credentials 
-  echo <profile-1> > ~/.gitcurrent
-  printf "${GREEN}you are now logged in as <profile-1>${NC}\n"
-  echo
-  exit
-fi
-```
 
 ## How it works
-
-The script reads from the file `.gitcurrent`. If the content is `<profile-1>`, it will replace the gitconfig files (`.gitconfig` and `.git-credentials`) with the config files of `<profile-2>` (and vice versa).
+The script reads from the file `gscurrent`. If the content is `profile1`, it will replace the gitconfig files (`.gitconfig` and `.git-credentials`) with the config files of `profile2` (and vice versa).
 
 It's not pretty, but it does the job. 👍
 
-## Configuration
+## Installation and configuration
+To install Gitswitch, follow the instructions below. 
 
-The script's files are stored in a directory called `git-switcher` structured as below:
-
+Let's keep things clean. Head over to your Desktop:
 ```
-├── gitcredential
-│            ├── <profile-1>
-│            │           ├── .gitconfig
-│            │           └── .git-credentials
-│            └── <profile-2>
-│                ├── .gitconfig
-│                └── .git-credentials
-└── switch.sh
-
+cd ~/Desktop
 ```
 
-In the folders `<profile-1>` and `<profile-2>`, we store the Github config files for each account. 
-
-We also need to create a file called `.gitcurrent` in your root directory, with the name of either of your profiles stored inside it. 
-
-## Alias setting
-
-I set up an alias in my `.bashrc` file, to help call the script from anywhere: 
-
+Clone this repository:
 ```
-alias gitswitch="bash <path-to-switch.sh>
+git clone https://github.com/to-ie/gitswitch
+```
+
+and launch the setup:
+```
+bash ~/Desktop/gitswitch/switch.sh
+```
+
+Follow the configuration instructions provided by the script. 
+<br>Note: you will need some basic information about your accounts (check the pre-requisit section above).
+
+Once you have installed and configured Gitswitch, let's clean up after ourselves:
+```
+rm -r ~/Desktop/gitswitch
 ```
 
 ## Switching profile
