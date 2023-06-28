@@ -44,7 +44,7 @@ openssl pkcs12 -export -out domain.name.pfx -inkey server.key -in server.crt
 ## Import the certificate and the key (.pfx)
 
 1. Launch the MMC (in Powershell, type 'mmc')
-2. When the MMC opens go to File|Add/Remove Snap-in. 
+2. When the MMC opens go to File -> Add/Remove Snap-in. 
 3. Click on the Certificates snap-in on the left side list box and click the add button. 
 4. Choose Computer account and click Next. 
 5. Leave Local computer selected and click Finish. 

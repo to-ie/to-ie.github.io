@@ -5,7 +5,7 @@ categories: systems
 date : 2023-06-15 08:14:50 
 ---
 
-As a sysadmin, I regularly backup and test infrastructure, for when the day we need them come. 
+As a sysadmin, I regularly backup infrastructure, for when the day comes. 
 
 One of the items that I backup is GitHub. Granted, there is some argument in the decentralised nature of the platform that ensures that local copies are made on all endpoints, but it will come in handy to have all repositories neatly organised in one place, ready to be re-rolled out (think of GitHub servers going down or your account being compromised and your repositories maliciously deleted).
 
