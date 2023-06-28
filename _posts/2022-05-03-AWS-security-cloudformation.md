@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AWS Security -through Cloudformation stacks" 
+title: "AWS Security through Cloudformation stacks" 
 categories: cyber security
 date : 2022-11-03 22:14:50
 ---

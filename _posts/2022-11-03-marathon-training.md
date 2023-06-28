@@ -5,7 +5,7 @@ categories: health
 date : 2022-11-03 22:58:50
 ---
 
-Training plan for a Marathon. I was inspired by the Dublin Marathon 2022.
+Training plan for a Marathon. I was inspired by the Dublin Marathon.
 
 Progress will be updated as I go 👇️
 
@@ -123,10 +123,5 @@ DAY 108     5 km
 DAY 109     Walk 3.2 km         
 DAY 110     REST            
 DAY 111     42.16 km            
-DAY 112     REST            
-   
-<<<<<<< HEAD
+DAY 112     REST               
 ```
-=======
-```
->>>>>>> a7de887 (marathon blog post)

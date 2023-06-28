@@ -3,7 +3,7 @@ layout: post
 title: "Linux Tablet?" 
 categories: privacy
 date : 2021-09-23 11:13:50
-
+---
 
 Official website [here](https://en.jingos.com/) and review [here](https://itsfoss.com/jingpad-a1-review/). 
 
