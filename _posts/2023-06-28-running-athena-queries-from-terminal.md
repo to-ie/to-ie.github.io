@@ -59,4 +59,4 @@ a2b95641-a045-46df-8376-17a5d3acc2c2
 
 You can then fish out this file from the bucket defined in `run_athena_query.sh` (remember `<bucket-location-where-results-are-stored>`?)
 
-That's all. 
+That's all. Easy right?
