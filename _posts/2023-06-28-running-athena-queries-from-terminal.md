@@ -39,6 +39,17 @@ done < "$1"
 ```
 (Make sure to replace `name-of-database` and `<bucket-location-where-results-are-stored>` with your own bits!)
 
+You now should have something that looks like this: 
+```
+.
+├── queries
+│   ├── firstquery
+│   ├── secondquery
+│   └── thirdquery
+└── run_athena_query.sh
+
+```
+
 
 ## Running the query
 
@@ -54,7 +65,6 @@ The script will spit out the name of the file that stores the results. Your term
 ```
 $ bash run_athena_query.sh queries/firstquery
 a2b95641-a045-46df-8376-17a5d3acc2c2
-
 ```
 
 You can then fish out this file from the bucket defined in `run_athena_query.sh` (remember `<bucket-location-where-results-are-stored>`?)
