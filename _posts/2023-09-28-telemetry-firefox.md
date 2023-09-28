@@ -2,7 +2,7 @@
 layout: post
 title: "Adjusting the telemetry settings of Firefox" 
 categories: privacy
-date : 2023-09-28 09:14:50
+date : 2023-09-28 08:14:50
 ---
 
 Have you thought about your browser recently? You know, that program that allows you to access the internet? These days, you basically have the choice between a chromium-based browser (Chrome, Edge, Brave,...) or a non chromium-based one (Safare & Firefox). 
