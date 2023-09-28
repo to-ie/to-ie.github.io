@@ -18,8 +18,6 @@ In come,... CloudFormation. (yes, yes Vali, the day has come where you see me pr
 
 The template below will set the alarms and alerts required to satisfy the CIS AWS Foundations Benchmark. 
 
-Also uploaded it to [GitHub](https://github.com/theodorekall/AWS/blob/main/cis-benchmark-remediation.yaml).
-
 Disclamer: I did not create this! If I still had the source, I would definitely slap it here as it deserves credit!
 
 

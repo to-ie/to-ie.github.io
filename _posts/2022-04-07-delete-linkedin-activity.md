@@ -13,7 +13,7 @@ After this cleansing, I must admit, I was happy enough.
 
 There was still a huge trail left through the articles I had posted (thanks Google for indexing), the likes, the comments... So how to go about deleting years/decades of online social activity? 
 
-In comes [Claudio Bizzoto and his magnifiscent script](https://github.com/claudiobizzotto/delete-linkedin-activity/issues).
+In comes [Claudio Bizzoto and his magnifiscent script](https://github.com/claudiobizzotto/delete-linkedin-activity/).
 
 Granted, it is a bit cluncky, slow, throws tons of errors but,... it ultimately works (and by works I mean it is faster than deleting all of the activity manually)!
 
