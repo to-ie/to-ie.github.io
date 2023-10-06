@@ -1,5 +1,5 @@
 ---
 layout: blog
-title: Notes
+title: Ramblngs
 ---
 

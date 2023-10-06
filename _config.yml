@@ -1,10 +1,8 @@
-site: Ultra
-url: https://example.com
-title: Ultra
-description: Ultra - Super fast Jekyll theme, weighs under 2kb
-twitter:
-  username: yourusername
-  card: summary
+site: t-o.ie 
+url: https://www.t-o.ie 
+title: These are the ramblings of a dad, web developer & cyber security enthusiast.
+description: These are the ramblings of a dad, web developer & cyber security enthusiast.
+
 
 permalink: pretty
 

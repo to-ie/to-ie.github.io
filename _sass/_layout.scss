@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-}
+}avatar
 *, *:before, *:after {
   box-sizing: inherit;
 }
@@ -15,9 +15,9 @@ strong, b, h1, h2, h3, h4 {
 }
 
 hr {
-    background: black;
+    background: #1e1e1e80;
     border: 0;
-    height: 2px;
+    height: 1px;
     margin: 2rem 0;
     width: 100%;
 }
@@ -59,4 +59,23 @@ nav {
 
 footer {
     margin: 2rem 0;
+}
+
+
+.toiemeta{
+    text-align: center;
+    color: #1e1e1e66;
+    margin-bottom: -10px
+
+
+}
+
+
+.avatar{
+    width: 140px; 
+    border-radius: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -20px
 }
