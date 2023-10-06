@@ -1,18 +1,16 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
   {% include head.html %}
   <body>
-    <section class="site-header">
-      <h1 class="smallcap"><a class="site-title" href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title }}</a></h1>
-      {% include nav.html %}
-      {% include intro.html %}
-    </section>
-    <div class="page-content">
-      {{ content }}
-      <div class="copyright">
-        <p>&copy; {{ site.time | date: '%Y' }} <a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}"><strong>{{ site.title }}</strong></a></p>
-      </div>
-    </div>
-    {% include google_analytics.html %}
+    {% include masthead.html %}
+      <main id="main" role="main">
+        {{ content }}
+      </main>
+    <hr>
+    {% include footer.html %}
   </body>
 </html>
