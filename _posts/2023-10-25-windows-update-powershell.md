@@ -2,27 +2,8 @@
 layout: post
 title: "Install Windows updates via PowerShell" 
 categories: how-to
-date : 2023-10-26 08:14:50
+date : 2023-10-25 08:14:50
 ---
-
-
-```bash
-  # Allow script execution in this process.
-  Set-ExecutionPolicy -Scope Process Bypass -Force 
-  # Now script-based modules are allowed to run.
-
-  # Install the required module
-  Install-Module PSWindowsUpdate
-
-  # Import it
-  Import-Module PSWindowsUpdate
-  
-  # Check what updates are required
-  Get-WindowsUpdate
-
-  # Launch the install the updates
-  Install-WindowsUpdate
-```
 
 Keeping your Windows operating system up to date is crucial. Regular updates not only enhance system security but also improve performance and resolve various issues. Sometimes, you might find yourself in a situation where you need to force Windows updates remotely, via PowerShell
 
