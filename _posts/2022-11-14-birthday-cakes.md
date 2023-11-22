@@ -7,6 +7,10 @@ date : 2022-11-14 09:56:50
 
 I have been making my child's birthday cakes since he was born. 
 
+## Eighth birthday
+Minecraft TNT block. 
+
+![birthday cake](/img/blog-posts/yr-8.jpg)
 
 ## Seventh birthday
 Bullet bill. 

@@ -86,7 +86,7 @@ Restart-Computer
 
 This command will initiate a system restart, and your updates will be applied during the reboot.
 
-## Conclusion:
+## Conclusion
 
 Keeping your Windows operating system up to date is crucial. PowerShell offers a powerful way to manage Windows updates, especially when you need to do it remotely. The steps outlined in this guide provide a simple and effective method to install updates via PowerShell, ensuring your system remains secure and performs optimally. 
 
