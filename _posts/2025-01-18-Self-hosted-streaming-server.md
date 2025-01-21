@@ -257,7 +257,7 @@ Heimdall is a lightweight, customizable dashboard designed to act as a central h
 
 **Access Heimdall:** 
 
-Open your browser and navigate to `http://<your-server-ip>:9117`.
+Open your browser and navigate to `http://<your-server-ip>:8090`.
 
 **Set a Password (Optional):**
 - Navigate to the "Users" page.
