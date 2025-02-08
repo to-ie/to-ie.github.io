@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automount drives on UUbuntu server" 
+title: "Automount drives on Ubuntu server" 
 categories: self-hosted
 date : 2025-01-18 09:14:50
 ---
