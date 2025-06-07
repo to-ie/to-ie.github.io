@@ -9,7 +9,7 @@ Training plan for a half Marathon. I was challenged...
 
 Progress will be updated as I go 👇️
 
-| Date       | Day       | Distance (km) | Target Time | Actual Distance (km) | Actual Time | Comment |
+| Date       | Day       | Distance (km) | Target Time | Distance ran (km) | Actual Time | Comment |
 |------------|-----------|----------------|-------------|----------------------|-------------|---|
 | 31-05-2025 | Saturday  |                |             | 4 km                 | 33 min      | Did not enjoy that, could nt walk for days. |
 | 05-06-2025 | Thursday  | 3.5            | 26 mins     | 3.5 km               | 28 min      |   |
