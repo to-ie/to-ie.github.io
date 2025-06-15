@@ -14,7 +14,7 @@ Progress will be updated as I go 👇️
 | 31-05-2025 | Saturday  |                |             | 4 km                 | 33 min      | Did not enjoy that, could nt walk for days. |
 | 05-06-2025 | Thursday  | 3.5            | 26 mins     | 3.5 km               | 28 min      |   |
 | 07-06-2025 | Saturday  | 4.5            | 32 mins     | 4.5 km               | 37 min      | A bit better, slower pace but did not feel like death. |
-| 12-06-2025 | Thursday  | 4              | 28 mins     |                      |             |   |
+| 12-06-2025 | Thursday  | 4              | 28 mins     |           4 km           |             | 28 min  |
 | 14-06-2025 | Saturday  | 5              | 34 mins     |                      |             |   |
 | 19-06-2025 | Thursday  | 4.5            | 30 mins     |                      |             |   |
 | 21-06-2025 | Saturday  | 6              | 39 mins     |                      |             |   |
