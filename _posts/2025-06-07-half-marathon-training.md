@@ -18,7 +18,7 @@ Progress will be updated as I go 👇️
 | 14-06-2025 | Saturday  | 5              | 34 mins     |                      |            |  missed |
  16-06-2025 | Monday | 5 | 34 min | 3 km | 22 mins| disappointing|
 | 19-06-2025 | Thursday  | 4.5            | 30 mins     |                      |             |   |
-| 21-06-2025 | Saturday  | 6              | 39 mins     |                      |             |   |
+| 21-06-2025 | Saturday  | 6              | 39 mins     |    4.1 km                  |  32 min           |   |
 | 26-06-2025 | Thursday  | 5              | 31 mins     |                      |             |   |
 | 28-06-2025 | Saturday  | 7              | 44 mins     |                      |             |   |
 | 03-07-2025 | Thursday  | 5              | 30 mins     |                      |             |   |
