@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Disabling AI features in Firefox" 
+categories: Tech
+date : 2025-10-26 09:14:50
+---
+
+In Mozilla Firefox, the `browser.ml.enable` setting controls access to the browser’s built-in machine learning and AI features. 
+
+When this option is disabled, all AI-powered tools (including summarisation, writing assistance, and any experimental smart features) are turned off entirely. This can be useful for users who prefer a lighter, privacy-focused browsing experience or wish to avoid background AI processing. Re-enabling the setting restores these intelligent capabilities, allowing Firefox to provide enhanced content understanding and productivity tools directly within the browser.
+
+To turn off Firefox’s AI features, you’ll need to disable the browser.ml.enable setting in the advanced configuration menu. Here’s how:
+
+1. Open Firefox and type about:config into the address bar.
+2. Press Enter and, if prompted, accept the warning to proceed.
+3. In the search bar at the top, type browser.ml.enable.
+4. When the preference appears, double-click it (or use the toggle button) to set its value to false.
+
+Once disabled, all AI and machine learning features in Firefox will be turned off immediately. You can always repeat the steps and set it back to true if you wish to restore them later.
