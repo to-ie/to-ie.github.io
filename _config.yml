@@ -1,66 +1,48 @@
-site: t-o.ie 
-url: https://www.t-o.ie 
-title: These are the ramblings of a dad, web developer & cyber security enthusiast.
-description: These are the ramblings of a dad, web developer & cyber security enthusiast.
-
-
+# Setup
+title: toie - microblog
+url: https://www.t-o.ie
+paginate: 1
+baseurl: ""
 permalink: pretty
 
-paginate:            1000
-paginate_path:       "/page:num/"
-baseurl:             ""
-  
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
 
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
-plugins:
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-seo-tag
-  - jekyll-sitemap  
+# Options
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:slug
-  projects:
-    output: true
-    permalink: /projects/:slug
-  
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-      
-  - scope:
-      path: "assets/images"
-    values:
-      image: true
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: toie
+  url: https://www.t-o.ie
+  email: toie@pm.me
+
+# Custom vars
+version: 3.0.0
+
+# Navbar page list
+nav:
+  - title: Blog
+    url: /archive
+
+  - title: About
+    url: /about
