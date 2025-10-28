@@ -12,6 +12,7 @@ StrideSync is a running tracker designed for both solo runners and groups who wa
 
 ![stride sync](/img/blog-posts/stridesync.png)
 
+---
 
 ## Gitswitch
 
@@ -19,6 +20,7 @@ This script helps with users who have multiple GitHub profiles and require to sw
 
 [Github repository](https://github.com/to-ie/gitswitch)
 
+---
 
 ## Yatzee
 
