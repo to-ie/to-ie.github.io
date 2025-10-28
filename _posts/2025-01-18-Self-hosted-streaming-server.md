@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Self-hosted streaming server in a Docker container on Ubuntu" 
+title: "Self-Hosted Media Server with Docker on Ubuntu (Jellyfin, Sonarr, Radarr)" 
 categories: self-hosted
 date : 2025-01-18 09:14:50
 ---
