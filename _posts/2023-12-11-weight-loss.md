@@ -15,6 +15,9 @@ The gist of it? Dive into a protein-packed diet and throw in some fun physical a
 - Use skimmed or low fat milk. 
 - Do not take any sugar or cream.
 
+<br>
+<br>
+
 Ok, here is your food plan:
 
 ---
