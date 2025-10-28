@@ -5,14 +5,12 @@ title: Blog
 
 # Blog
 
-Browse all posts by month and year.
-
-{% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
-{% for yearMonth in postsByYearMonth %}
-  <h2>{{ yearMonth.name }}</h2>
-  <ul>
-    {% for post in yearMonth.items %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+<ul class="post-list">
+  {% assign posts = site.posts | sort: "date" | reverse %}
+  {% for post in posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="post-date-tag">{{ post.date | date: "%B %Y" }}</span>
+    </li>
+  {% endfor %}
+</ul>
