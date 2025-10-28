@@ -10,8 +10,6 @@ StrideSync is a running tracker designed for both solo runners and groups who wa
 
 [Github repository](https://github.com/to-ie/StrideSync)
 
-![stride sync](/img/blog-posts/stridesync.png)
-
 ---
 
 ## Gitswitch
@@ -27,6 +25,3 @@ This script helps with users who have multiple GitHub profiles and require to sw
 A quick and dirty app for keeping yatzee scores. Very simple app, can only be used by one user at a time.
 
 [Github repository](https://github.com/to-ie/yatzee)
-
-![stride sync](/img/blog-posts/yatzee.png)
-![stride sync](/img/blog-posts/yatzee1.png)
