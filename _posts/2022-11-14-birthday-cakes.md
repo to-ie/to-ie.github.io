@@ -10,7 +10,7 @@ I have been making my child's birthday cakes since he was born.
 ## Ninth birthday
 Bloons TD arrow. 
 
-![birthday cake](/img/blog-posts/yr-9.jepg)
+![birthday cake](/img/blog-posts/yr-9.jpeg)
 
 ## Eighth birthday
 Minecraft TNT block. 
