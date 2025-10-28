@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Archive
+title: Blog
 ---
 
-# Archive
+# Blog
 
 Browse all posts by month and year.
 
