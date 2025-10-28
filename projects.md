@@ -3,7 +3,6 @@ layout: page
 title: Projects
 ---
 
-
 A list of my current and past projects. 
 
 ## StrideSync – Collaborative Running Tracker
