@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: Projects
 ---
 
+A lits of my current and past projects. 
+
+## Title
+Description
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Coming soon
 </p>
-
-## Ahem...
-I am currently working as a systems administrator at a med-tech startup. I am also expanding my knowledge of the world of web development by learning Flask. 
-
-### Interests
-- Web-design
-- Rock climbing 
-- Graphic design
-- Chess
-- Outdoors activities
