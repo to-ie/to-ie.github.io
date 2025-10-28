@@ -7,7 +7,6 @@ date : 2023-11-22 09:56:50
 
 Why does turning a device off and on again fix most technical problems?
 
-This was, by far, the best answer: 
 > Imagine you live in a huge, ancient city with winding streets that have many twists and turns. You want to get from your house to the grocery store. Somewhere along the way, you aren't paying attention, and take a wrong turn.
 > <br><br>
 > Now you're lost. You don't recognize any buildings. What do you think is more likely to help you -- going around and around in circles, or magically teleporting back to your house and starting again from the beginning of the route you already know?
