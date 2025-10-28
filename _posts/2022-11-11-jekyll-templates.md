@@ -8,8 +8,5 @@ This website is based on [Jekyll](http://jekyllrb.com/). It is a static website 
 
 There are a few cool templates out there that I will bookmark here, for future implementation. 
 
-## ~~Some~~
-~~[Some](https://jekyll-themes.com/some/) is a minimal, resume, CV Jekyll theme.~~ 
-
 ## Travel Map
 [Travel map](https://jekyll-themes.com/jekyller/TravelMap) is a minimal, map, one-page Jekyll theme.

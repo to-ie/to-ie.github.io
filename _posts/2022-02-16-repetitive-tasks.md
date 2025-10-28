@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Automating repetitive tasks" 
+title: "When does automating repetitive tasks make sense?" 
 categories: technology
 date : 2022-02-16 11:13:50
 ---

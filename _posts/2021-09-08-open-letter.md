@@ -5,7 +5,7 @@ categories: tech
 date : 2021-09-08 11:13:50
 ---
 
-Check out the original [here](https://new.pythonforengineers.com/blog/no-one-cares-about-you/)
+Not mine, check out the original [here](https://new.pythonforengineers.com/blog/no-one-cares-about-you/)
 
 ------
 
