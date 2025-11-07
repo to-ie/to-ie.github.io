@@ -7,6 +7,11 @@ date : 2022-11-14 09:56:50
 
 I have been making my child's birthday cakes since he was born. 
 
+## Tenth birthday
+Buddah fruit from Bloxfruits. 
+
+![birthday cake](/img/blog-posts/10.jpeg)
+
 ## Ninth birthday
 Bloons TD arrow. 
 
